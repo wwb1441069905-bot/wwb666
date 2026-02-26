@@ -1,0 +1,30 @@
+h2
+{
+    color:rgba(22, 95, 15, 0.921);
+    font-size: 30px;
+}
+
+.standout
+{
+    color: rgba(234, 255, 76, 0.975);
+}
+
+.image1:hover{
+    border-radius: 70%;
+}
+
+.image2:hover{
+    border-radius: 35px;
+}
+
+.image3:hover{
+    opacity: 0.1;
+}
+
+.image4:hover{
+    filter:grayscale(0.5)
+}
+
+.image5:hover{
+    filter:blur(10)
+}
